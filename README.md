@@ -1,4 +1,5 @@
 Planet-Imagery-API-Tutorial
+
 ---
 1. Introduction
 ---
@@ -8,9 +9,9 @@ The focus of this tutorial will be the search portion of the Planet Data API. We
 Please note that you may benefit from prior experience with Python and using Planet imagery, but this is not required to complete the activity. 
 This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023.
 
-----
+---
 2. Resources
-----
+---
 
 ---
 2.1. Set-up instructions
