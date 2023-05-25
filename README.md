@@ -15,8 +15,9 @@ This script was presented to QLD Government Planet users in the QLD Government P
 
 This training script can run directly in your browser (no setup required!) using the [Google Colaboratory platform](https://colab.research.google.com/). Colaboratory is supported on most major browsers, and is most thoroughly tested on desktop versions of Chrome and Firefox. For more information about Colab please visit [FAQs](https://research.google.com/colaboratory/faq.html). 
 
-Please note that running through Colab will require sharing of your API key and licensed data in a personal Google account. We recommend following Planet’s security advice for using API Keys [here](https://developers.planet.com/docs/basemaps/tile-services/#api-key-security-risk).
-If you'd prefer to download and run the Notebook (.ipynb) in another program, you can utilise Jupyter Notebooks (installed with Anaconda or ArcGIS Pro) or Python. Please note that this process is likely complicated due to internal proxy and firewall settings, and requires local installation of required packages. If you need assistance with installation of these programs please contact your agency's IT support area. For all other querys, please contact State Imagery: imagery@spatial-qld-support.atlassian.net.
+> **_NOTE:_**  Running the script through Colab will require sharing of your API key and licensed data in a personal Google account. We recommend following Planet’s security advice for using API Keys [here](https://developers.planet.com/docs/basemaps/tile-services/#api-key-security-risk).
+
+If you'd prefer to download and run the Notebook (.ipynb) in another program, you can utilise Jupyter Notebooks (installed with Anaconda or ArcGIS Pro) or Python. Please note that this process is likely complicated due to internal proxy and firewall settings, and requires local installation of required packages. If you need assistance with installation of these programs please contact your agency's IT support area. For all other querys, please contact State Imagery: imagery@spatial-qld-support.atlassian.net.   
 
 
 ### 2.2. Resources
@@ -42,8 +43,9 @@ Please note that Planet have several APIs, including:
 *   Analytics API - gives you access to derived analytic products (Planet Analytic Feeds)
 
 ### 2.3 Prerequisites
-
 *   Planet QLD Government Account
   *    If you do not have an account, please request an account using the following [link](https://spatial-qld-support.atlassian.net/servicedesk/customer/portals?q=QSat+access+request) or contact imagery@spatial-qld-support.atlassian.net. 
 *   Planet API Key (available in the [Account page settings](https://www.planet.com/account) for Planet QLD Government Account holders)
 *   Google Colab, Jupyter Notebooks or Python environment
+
+> **_NOTE:_**  *If using an environment outside of Google Colab, please ensure you have installed all packages before running. We recommend using Pip (i.e. !pip install json). Contact your agency's IT if you have any errors.*
