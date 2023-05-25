@@ -43,9 +43,13 @@ Please note that Planet have several APIs, including:
 *   Analytics API - gives you access to derived analytic products (Planet Analytic Feeds)
 
 ### 2.3 Prerequisites
+
 *   Planet QLD Government Account
   *    If you do not have an account, please request an account using the following [link](https://spatial-qld-support.atlassian.net/servicedesk/customer/portals?q=QSat+access+request) or contact imagery@spatial-qld-support.atlassian.net. 
 *   Planet API Key (available in the [Account page settings](https://www.planet.com/account) for Planet QLD Government Account holders)
 *   Google Colab, Jupyter Notebooks or Python environment
 
 > **_NOTE:_**  *If using an environment outside of Google Colab, please ensure you have installed all packages before running. We recommend using Pip (i.e. !pip install json). Contact your agency's IT if you have any errors.*
+
+We hope you enjoy the training activity!
+NGIS & Planet Team
