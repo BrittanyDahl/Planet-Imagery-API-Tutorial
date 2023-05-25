@@ -7,6 +7,7 @@ This tutorial is an introduction to Planet's APIs, including the Data API. It pr
 The focus of this tutorial will be the search portion of the Planet Data API. We will find and download imagery data using complex searches and save them for later use, as well as learn how to get stats on search results. After completing this tutorial, you should feel comfortable interacting with the Data API, and have a good foundation for leveraging the Planet Data API for your own applications.
 Please note that you may benefit from prior experience with Python and using Planet imagery, but this is not required to complete the activity. 
 This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023.
+
 ---
 2. Resources
 ---
