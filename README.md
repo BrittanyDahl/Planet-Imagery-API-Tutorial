@@ -1,8 +1,5 @@
 Planet-Imagery-API-Tutorial
-
-
 1. Introduction
-
 This tutorial is an introduction to Planet's APIs, including the Data API. It provides code samples on how to write simple Python code to access Planet Satellite Imagery data.
 
 The focus of this tutorial will be the search portion of the Planet Data API. We will find and download imagery data using complex searches and save them for later use, as well as learn how to get stats on search results. After completing this tutorial, you should feel comfortable interacting with the Data API, and have a good foundation for leveraging the Planet Data API for your own applications.
@@ -11,9 +8,7 @@ Please note that you may benefit from prior experience with Python and using Pla
 
 This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023.
 
-
 2. Resources
-
 2.1. Set-up instructions
 ---
 This training script can run directly in your browser (no setup required!) using the [Google Colaboratory platform](https://colab.research.google.com/). Colaboratory is supported on most major browsers, and is most thoroughly tested on desktop versions of Chrome and Firefox. For more information about Colab please visit [FAQs](https://research.google.com/colaboratory/faq.html). 
