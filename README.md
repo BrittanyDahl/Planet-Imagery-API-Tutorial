@@ -1,16 +1,17 @@
 Planet-Imagery-API-Tutorial
+---
 1. Introduction
-----
+---
 This tutorial is an introduction to Planet's APIs, including the Data API. It provides code samples on how to write simple Python code to access Planet Satellite Imagery data.
 
 The focus of this tutorial will be the search portion of the Planet Data API. We will find and download imagery data using complex searches and save them for later use, as well as learn how to get stats on search results. After completing this tutorial, you should feel comfortable interacting with the Data API, and have a good foundation for leveraging the Planet Data API for your own applications.
-Please note that you may benefit from prior experience with Python and using Planet imagery, but this is not required to complete the activity. 
-This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023.
 
+Please note that you may benefit from prior experience with Python and using Planet imagery, but this is not required to complete the activity. 
+
+This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023.
 ---
 2. Resources
 ---
-
 ---
 2.1. Set-up instructions
 ---
@@ -18,7 +19,6 @@ This training script can run directly in your browser (no setup required!) using
 
 Please note that running through Colab will require sharing of your API key and licensed data in a personal Google account. We recommend following Planet’s security advice for using API Keys [here](https://developers.planet.com/docs/basemaps/tile-services/#api-key-security-risk).
 If you'd prefer to download and run the Notebook (.ipynb) in another program, you can utilise Jupyter Notebooks (installed with Anaconda or ArcGIS Pro) or Python. Please note that this process is likely complicated due to internal proxy and firewall settings, and requires local installation of required packages. If you need assistance with installation of these programs please contact your agency's IT support area. For all other querys, please contact State Imagery: imagery@spatial-qld-support.atlassian.net.
-
 ---
 2.2. Resources
 ---
