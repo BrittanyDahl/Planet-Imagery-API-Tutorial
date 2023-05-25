@@ -44,8 +44,7 @@ Please note that Planet have several APIs, including:
 
 ### 2.3 Prerequisites
 
-*   Planet QLD Government Account
-  *    If you do not have an account, please request an account using the following [link](https://spatial-qld-support.atlassian.net/servicedesk/customer/portals?q=QSat+access+request) or contact imagery@spatial-qld-support.atlassian.net. 
+*   Planet QLD Government Account (If you do not have an account, please request an account using the following [link](https://spatial-qld-support.atlassian.net/servicedesk/customer/portals?q=QSat+access+request) or contact imagery@spatial-qld-support.atlassian.net).
 *   Planet API Key (available in the [Account page settings](https://www.planet.com/account) for Planet QLD Government Account holders)
 *   Google Colab, Jupyter Notebooks or Python environment
 
