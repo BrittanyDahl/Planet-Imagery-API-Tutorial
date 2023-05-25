@@ -10,7 +10,7 @@ Please note that you may benefit from prior experience with Python and using Pla
 This script was presented to QLD Government Planet users in the QLD Government Planet Imagery Automation with Scripting APIs Virtual Training on the 22nd of May 2023.
 
 2. Resources
--
+----
 2.1. Set-up instructions
 ---
 This training script can run directly in your browser (no setup required!) using the [Google Colaboratory platform](https://colab.research.google.com/). Colaboratory is supported on most major browsers, and is most thoroughly tested on desktop versions of Chrome and Firefox. For more information about Colab please visit [FAQs](https://research.google.com/colaboratory/faq.html). 
