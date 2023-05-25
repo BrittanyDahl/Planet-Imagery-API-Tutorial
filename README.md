@@ -1,5 +1,4 @@
 Planet-Imagery-API-Tutorial
-
 ---
 1. Introduction
 ---
