@@ -1,7 +1,7 @@
 Planet-Imagery-API-Tutorial
 -
 1. Introduction
----
+--
 This tutorial is an introduction to Planet's APIs, including the Data API. It provides code samples on how to write simple Python code to access Planet Satellite Imagery data.
 
 The focus of this tutorial will be the search portion of the Planet Data API. We will find and download imagery data using complex searches and save them for later use, as well as learn how to get stats on search results. After completing this tutorial, you should feel comfortable interacting with the Data API, and have a good foundation for leveraging the Planet Data API for your own applications.
