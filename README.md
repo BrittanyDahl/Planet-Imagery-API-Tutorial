@@ -17,7 +17,7 @@ This training script can run directly in your browser (no setup required!) using
 
 > **_NOTE:_**  Running the script through Colab will require sharing of your API key and licensed data in a personal Google account. We recommend following Planet’s security advice for using API Keys [here](https://developers.planet.com/docs/basemaps/tile-services/#api-key-security-risk).
 
-If you'd prefer to download and run the Notebook (.ipynb) in another program, you can utilise Jupyter Notebooks (installed with Anaconda or ArcGIS Pro) or Python. Please note that this process is likely complicated due to internal proxy and firewall settings, and requires local installation of required packages. If you need assistance with installation of these programs please contact your agency's IT support area. For all other querys, please contact State Imagery: imagery@spatial-qld-support.atlassian.net.   
+If you'd prefer to download and run the Notebook (.ipynb) in another program, you can utilise Jupyter Notebooks (installed with Anaconda or ArcGIS Pro) or Python. Please note that this process is likely complicated due to internal proxy and firewall settings, and requires local installation of required packages. If you need assistance with installation of these programs please contact your agency's IT support area. For all other queries, please contact State Imagery: imagery@spatial-qld-support.atlassian.net.   
 
 
 ### 2.2. Resources
